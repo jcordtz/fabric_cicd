@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "Carlsberg1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "54dd72c1-c4b8-8ff0-4fe1-fabb9fcd6f9b"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "transform",
+    "path": "/Files",
+    "target": {
+      "type": "AdlsGen2",
+      "adlsGen2": {
+        "connectionId": "3e5d041e-eb1c-4b28-91ae-05539268dfa6",
+        "location": "https://jcodataplatform.dfs.core.windows.net",
+        "subpath": "/transform"
+      }
+    }
+  }
+]
